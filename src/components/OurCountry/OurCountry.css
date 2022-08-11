@@ -1,0 +1,43 @@
+.card_main-country {
+    height: 150px;
+    width: 400px;
+    margin: 25px;
+    border-radius: 20px;
+    box-shadow: 0 0 5px 1px #999;
+    padding: 20px;
+    align-items: center;
+    background-color: rgb(116, 116, 209);
+}
+.card_name span {
+    font-size: 15px;
+}
+.card_total {
+    font-size: 20px;
+    font-weight: bold;
+
+}
+.card_name{
+    font-size: 25px;
+    font-weight: bold;
+    text-emphasis-style: initial;
+}
+.mainbody {
+    background-color: rgb(247, 131, 131);
+    padding: 20px;
+    text-align: center;
+    min-height: 100vh;
+    align-items: center;
+    
+}
+p {
+    color:rgba(243, 242, 242, 0.945);
+}
+h1, h2 {
+            color: #e71818;
+}
+
+ul{
+    list-style-type:none;
+    display: flex;
+    flex-wrap: wrap;
+}
